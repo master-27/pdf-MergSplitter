@@ -119,5 +119,3 @@ This project is **MIT Licensed**.
 ---
 🚀 **Now, you're all set to build & deploy!**  
 ```
-
-Now your **GitHub repo looks professional**! 🎉🚀 Let me know if you need modifications. 😊
